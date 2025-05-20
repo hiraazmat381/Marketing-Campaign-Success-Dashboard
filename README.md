@@ -1,2 +1,4 @@
-# Marketing-Campaign-Success-Dashboard
-I developed a Marketing Campaign Success Prediction Dashboard in Power BI to analyze factors influencing campaign outcomes. This process involved data cleaning, modeling, and building interactive visuals to uncover insights such as success rates by channel, product category, region, and budget. The goal was to support better marketing decisions.
+# Marketing Campaign Success Prediction Dashboard Using Power BI
+## Project Objective 
+The goal of this project is to analyze marketing campaign data and identify key factors that influence campaign success. The dashboard helps marketing teams make better decisions to improve performance and ROI using Power BI visualizations.
+
