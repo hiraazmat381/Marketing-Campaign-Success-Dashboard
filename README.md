@@ -16,4 +16,5 @@ The goal of this project is to analyze marketing campaign data and identify key 
 - Created an interactive dashboard with filters for easy exploration of campaign results.
 - Highlighted important performance indicators such as audience size, budget, and success rates.
 ## Dashboard 
-![image](https://github.com/user-attachments/assets/15aaa390-a422-4d32-a457-200c580642dc)
+![image](https://github.com/user-attachments/assets/fca0dd1e-1dc0-4100-840d-94da37287d12)
+
